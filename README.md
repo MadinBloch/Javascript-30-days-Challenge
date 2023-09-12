@@ -16,7 +16,7 @@ Below is a list of the projects included in this challenge:
 
 1. Day 01: [Weather-App] Go and Check 🔗 https://lnkd.in/gwyEF43b
 2. Day 02: [Todo-List] Go and Check 🔗https://todo-list-madin.netlify.app/
-
+3. Day 03: [Password-Genrator] Go and Check 🔗https://password-generator-madin.netlify.app/
 
 
 ## Contributing
